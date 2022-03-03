@@ -1,0 +1,11 @@
+D:\DOWNLOAD\window\Notepaad\Notepaad\bin\Debug\Notepaad.exe.config
+D:\DOWNLOAD\window\Notepaad\Notepaad\bin\Debug\Notepaad.exe
+D:\DOWNLOAD\window\Notepaad\Notepaad\bin\Debug\Notepaad.pdb
+D:\DOWNLOAD\window\Notepaad\Notepaad\obj\Debug\Notepaad.csproj.AssemblyReference.cache
+D:\DOWNLOAD\window\Notepaad\Notepaad\obj\Debug\Notepaad.csproj.SuggestedBindingRedirects.cache
+D:\DOWNLOAD\window\Notepaad\Notepaad\obj\Debug\Notepaad.Form1.resources
+D:\DOWNLOAD\window\Notepaad\Notepaad\obj\Debug\Notepaad.Properties.Resources.resources
+D:\DOWNLOAD\window\Notepaad\Notepaad\obj\Debug\Notepaad.csproj.GenerateResource.cache
+D:\DOWNLOAD\window\Notepaad\Notepaad\obj\Debug\Notepaad.csproj.CoreCompileInputs.cache
+D:\DOWNLOAD\window\Notepaad\Notepaad\obj\Debug\Notepaad.exe
+D:\DOWNLOAD\window\Notepaad\Notepaad\obj\Debug\Notepaad.pdb
